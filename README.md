@@ -1,7 +1,7 @@
-# 🌧️ StormSight: Robust Scene Text Recognition in Adverse Weather  
+# 🌧️ Weather Invariant OCR
 *An End-to-End Pipeline for Deraining → Detection → OCR*  
 
-![StormSight Demo](assets/demo.jpeg)  
+![Demo](assets/demo.jpeg)  
 *Live processing of rainy scene text (Desktop/Jetson compatible)*  
 
 ## 🚀 Key Features  
@@ -16,7 +16,7 @@
   - 🎥 **Live Processing** (Jetson/OpenCV)  
 
 ## 📂 Project Architecture  
-![StormSight Architecture](assets/architecture.png)  
+![Architecture](assets/architecture.png)  
 
 ## 🛠️ Installation  
 
@@ -26,8 +26,8 @@
 
 ### Setup  
 ```bash
-git clone https://github.com/Bhupesh-Khordia/StormSight
-cd StormSight
+git clone https://github.com/anshul45-github/Weather-Invariant-OCR
+cd Weather-Invariant-OCR
 
 # Create environment (Recommended)
 python -m venv venv
